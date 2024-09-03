@@ -1,0 +1,10 @@
+.side {
+    /*margin-right: 50px;*/
+}
+
+
+.container {
+    display: flex;
+    justify-content: space-between;
+
+}
